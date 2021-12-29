@@ -23,8 +23,8 @@ if(__name__ == "__main__"):
     # Opening Website
     driver = webdriver.Chrome('/home/aakkiieezz/Downloaded Drivers/chromedriver') 
     driver.get('https://letterboxd.com/sign-in/')
-    driver.find_element_by_id("signin-username").send_keys("AkashKadole")
-    driver.find_element_by_id("signin-password").send_keys("Movies")
+    driver.find_element_by_id("signin-username").send_keys("YourUserName")
+    driver.find_element_by_id("signin-password").send_keys("YourPassword")
     driver.find_element_by_class_name("button-container").click()
 
     time.sleep(2)
