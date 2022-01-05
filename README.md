@@ -1,23 +1,9 @@
 # Letterboxd-Collect-Movie-Images
 ## Creating collage of all movie posters from your movies list
 
-## CRUD Operations using SpringBoot, Thymeleaf, MySQL
-
-Things used :
-- IDE (for python3)
-
-Project Dependencies
-- Python modules (urllib, selenium, PIL, BytesIO)
-  - dsds
-  - 
-- 
-
-
-
 This program is for those **#ExtremeMovieAddicts**/**#Cinephilias** who like to keep a record of **all_movies_ever_watched** / **watchlist**
 
 https://letterboxd.com/ site helps you add all movies to your list
-
 Seperate lists can also be created for Bollywood / Hollywood / ...etc
 
 What this program does ?
@@ -31,6 +17,16 @@ Program features :
 - Lets you decide the margin width to set between images
 - Lets you decide the color of the background (Default : DarkBlue)
 - Then the collage gets ready (depending on your internet connection)
+
+Things used :
+- IDE (for python3)
+
+Project Dependencies
+- Python modules
+  - selenium  - used to automate web browser interaction
+  - PIL       - image library for Python
+  - BytesIO   - manipulate bytes data in memory (img)
+  - urllib    - for working with URLs
 
 ## Screenshots of demo
 My collection of all **Romantic Movies** ever watched (sorted by rating)
