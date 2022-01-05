@@ -1,4 +1,5 @@
 # Letterboxd-Collect-Movie-Images
+## Creating collage of all movie posters from your movies list
 
 This program is for those **#ExtremeMovieAddicts**/**#Cinephilias** who like to keep a record of **all_movies_ever_watched** / **watchlist**
 
