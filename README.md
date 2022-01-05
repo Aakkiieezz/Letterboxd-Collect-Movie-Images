@@ -29,8 +29,8 @@ Project Dependencies
   - urllib    - for working with URLs
 
 ## Screenshots of demo
-My collection of all **Romantic Movies** ever watched (sorted by rating)
-![Romantic Movies](https://user-images.githubusercontent.com/67866166/147611499-883b4443-c254-4862-90e6-5bbc05dc2eb0.jpg)
-
 My collection of all **Hollywood Movies** ever watched (sorted by name)
 ![Animated Movies](https://user-images.githubusercontent.com/67866166/147610642-d54e9e27-d120-47ef-adc0-b6d1e943c227.jpg)
+
+My collection of all **Romantic Movies** ever watched (sorted by rating)
+![Romantic Movies](https://user-images.githubusercontent.com/67866166/147611499-883b4443-c254-4862-90e6-5bbc05dc2eb0.jpg)
