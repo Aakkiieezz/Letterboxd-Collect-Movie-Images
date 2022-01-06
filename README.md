@@ -27,6 +27,7 @@ Project Dependencies
   - PIL       - image library for Python
   - BytesIO   - manipulate bytes data in memory (img)
   - urllib    - for working with URLs
+- Chrome webdriver - for setting up your browser to be automated by selenium
 
 ## Screenshots of demo
 My collection of all **Hollywood Movies** ever watched (sorted by name)
