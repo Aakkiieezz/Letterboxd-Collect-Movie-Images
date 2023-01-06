@@ -3,7 +3,7 @@
 
 This program is for those **#ExtremeMovieAddicts**/**#Cinephilias** who like to keep a record of **all_movies_ever_watched** / **watchlist**
 
-https://letterboxd.com/ site helps you add all movies to your list
+https://letterboxd.com/ site helps you add all movies to your list.
 Seperate lists can also be created for Bollywood / Hollywood / ...etc
 
 What this program does ?
